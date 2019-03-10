@@ -17,5 +17,8 @@ For the below image, the EAR value is 0.20 which is less than the threshold 0.25
 
 For the below image, the EAR value is 0.37 which is greater than the threshold 0.25, so we detect it as open eye.![open](https://user-images.githubusercontent.com/5523584/54007967-83fbd380-4132-11e9-988b-36157cd10c4b.jpeg)
 
+The below gif shows real time eye blink using laptop camera:
+![giphy2](https://user-images.githubusercontent.com/5523584/54092709-b2adc000-4365-11e9-90c9-4d6dae63f5f7.gif)
+
 The below gif shows that using eye blink, scrolling can be done on browser:
 ![giphy](https://user-images.githubusercontent.com/5523584/54092434-6b720000-4362-11e9-9c1c-1362e09046c6.gif)
