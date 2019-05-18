@@ -30,6 +30,6 @@ Once we can control mouse to scroll, we can use it to zoom in google maps.
 The below gif shows that using eye blink in real time, zooming can be done in google maps:  
 ![giphy](https://media.giphy.com/media/YTQw0NmVjtgqlD4bjI/giphy.gif) 
 
-Similarly we can detect if mouth is open or closed and use it to control another gesture in mouse  
+Similarly we can detect if mouth is open or closed and use it to control another gesture in mouse, and the mouse position can be determined by the nose locations  
 The below gif shows that using eye blink and mouth open/close in real time, left and right can be done respectively:  
 ![giphy](https://media.giphy.com/media/lQfiE7YhbmLPo9pOa2/giphy.gif)
