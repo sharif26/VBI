@@ -25,3 +25,7 @@ The below gif shows eye blink detection in real time using laptop camera:
 
 The below gif shows that using eye blink in real time, scrolling can be done on browser:
 ![giphy](https://user-images.githubusercontent.com/5523584/54092434-6b720000-4362-11e9-9c1c-1362e09046c6.gif)
+
+Once we can control mouse to scroll, we can use it to zoom in google maps.
+The below gif shows that using eye blink in real time, zooming can be done in google maps:
+![giphy](https://media.giphy.com/media/YTQw0NmVjtgqlD4bjI/giphy.gif)
